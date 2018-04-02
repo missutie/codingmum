@@ -1,0 +1,67 @@
+body {
+     
+}
+.gbr {
+
+    /* The image used */
+    background-image: url("images/background3.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kenal{
+     background-color:#fcf3ba;
+      border: 2px;
+    padding: 30px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.skrg{
+     background-color:#a5f7e1;
+      border: 2px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom:50px;
+}
+
+.dulu{
+     background-color:#fcbaeb;
+      border: 2px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+.btn-danger{
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+
+.fm{
+     background-color:#fcf3ba;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     padding-bottom: 20px;
+     padding-left:35px;
+}
+
+h3{
+     text-align:center;
+}
+
+.bek{
+     background-image: url("../images/background3.jpg");
+     height: 100%
+     background-position:center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
